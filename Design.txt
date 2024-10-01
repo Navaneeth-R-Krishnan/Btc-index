@@ -1,0 +1,20 @@
+/btc-usd-chart
+│
+├── /components
+│   ├── CandlestickChart.js
+│   ├── FibonacciRetracement.js
+│   └── BollingerBands.js
+│
+├── /pages
+│   ├── index.js
+│   └── api
+│       └── btc-usd.js
+│
+├── /styles
+│   └── global.css
+│
+├── /utils
+│   └── api.js
+│
+├── /public
+└── package.json
